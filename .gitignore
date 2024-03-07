@@ -1,0 +1,5 @@
+main 
+*_handout/
+*.o
+autograder/*.zip
+vgcore*
